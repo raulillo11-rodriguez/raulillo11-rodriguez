@@ -1,22 +1,16 @@
-<!-- ========== CABECERA ========== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola%2C%20soy%20Raúl%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20DAW%20%7C%20Futuro%20desarrollador%20web&descAlignY=60&descSize=18" width="100%" alt="cabecera"/> <br/> <a href="https://github.com/raulillo11-rodriguez"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Estudiando+Desarrollo+de+Aplicaciones+Web;%F0%9F%92%BB+Aprendiendo+algo+nuevo+cada+d%C3%ADa;%F0%9F%90%9B+Depurando+errores+(y+aprendiendo+de+ellos);%F0%9F%9A%80+Construyendo+mi+futuro+l%C3%ADnea+a+l%C3%ADnea;%E2%98%95+Convirtiendo+caf%C3%A9+en+c%C3%B3digo" alt="Typing SVG" /> </a> <br/> <br/>
-
-Mostrar imagen   Mostrar imagen   Mostrar imagen
-
-</div> <br/> <br/>
+<!-- ========== CABECERA ========== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola%2C%20soy%20Raúl%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20DAW%20%7C%20Futuro%20desarrollador%20web&descAlignY=60&descSize=18" width="100%" alt="cabecera"/> <br/> <a href="https://github.com/raulillo11-rodriguez"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Estudiando+Desarrollo+de+Aplicaciones+Web;%F0%9F%92%BB+Aprendiendo+algo+nuevo+cada+d%C3%ADa;%F0%9F%90%9B+Depurando+errores+(y+aprendiendo+de+ellos);%F0%9F%9A%80+Construyendo+mi+futuro+l%C3%ADnea+a+l%C3%ADnea;%E2%98%95+Convirtiendo+caf%C3%A9+en+c%C3%B3digo" alt="Typing SVG" /> </a> </div> <br/> <br/>
 <br/> <!-- ========== SOBRE MÍ ========== -->
 🧑‍💻 Sobre mí
 <br/>
 js
-const raul = {
-  nombre: "Raúl",
-  estudios: "Ciclo Superior de DAW 🎓",
-  nivel: "Junior en construcción 🏗️",
-  ubicacion: "España 🇪🇸",
-  lemaDelDia: "Si compila, ¡se envía! (mentira, testea primero)",
-  buscando: ["Prácticas (FCT)", "Proyectos reales", "Gente con la que aprender"],
-  enProceso: ["HTML", "CSS", "JavaScript", "Git", "SQL"],
-  superpoder: "No rendirme ante un error rojo en consola 💪"
-};
+"Raúl"
+"Ciclo Superior de DAW 🎓"
+"Junior en construcción 🏗️"
+"España 🇪🇸"
+"Si compila, ¡se envía! (mentira, testea primero)"
+"Prácticas (FCT)", "Proyectos reales", "Gente con la que aprender"
+"HTML", "CSS", "JavaScript", "Git", "SQL"
+"No rendirme ante un error rojo en consola 💪"
 <br/> <br/>
 <br/> <!-- ========== DESPLEGABLES ========== -->
 🎮 Haz clic para descubrir más
