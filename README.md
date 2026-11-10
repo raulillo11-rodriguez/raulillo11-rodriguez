@@ -2,12 +2,20 @@
 <br/> <!-- ========== SOBRE MÍ ========== -->
 🧑‍💻 Sobre mí
 <br/>
-js
+<br>
 "Raúl"
+<br/>
+<br>
 "Ciclo Superior de DAW 🎓"
+<br/>
+<br>
 "Junior en construcción 🏗️"
+<br/>
+<br>
 "España 🇪🇸"
+<br/>
 "Si compila, ¡se envía! (mentira, testea primero)"
+<br/>
 "Prácticas (FCT)", "Proyectos reales", "Gente con la que aprender"
 "HTML", "CSS", "JavaScript", "Git", "SQL"
 "No rendirme ante un error rojo en consola 💪"
