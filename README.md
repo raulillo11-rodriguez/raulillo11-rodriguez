@@ -3,7 +3,7 @@
 🧑‍💻 Sobre mí
 <br/>
 <br>
-"Raúl"
+"Raúl Rodríguez Jiménez"
 <br/>
 <br>
 "Ciclo Superior de DAW 🎓"
@@ -14,10 +14,14 @@
 <br>
 "España 🇪🇸"
 <br/>
+<br>
 "Si compila, ¡se envía! (mentira, testea primero)"
 <br/>
+<br>
 "Prácticas (FCT)", "Proyectos reales", "Gente con la que aprender"
 "HTML", "CSS", "JavaScript", "Git", "SQL"
+<br/>
+<br>
 "No rendirme ante un error rojo en consola 💪"
 <br/> <br/>
 <br/> <!-- ========== DESPLEGABLES ========== -->
