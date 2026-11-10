@@ -2,8 +2,6 @@
 
 <br/><br/>
 
-Mostrar imagen Mostrar imagen Mostrar imagen
-
 </div>
 🧑‍💻 Sobre mí
 js
