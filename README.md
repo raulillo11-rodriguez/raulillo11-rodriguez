@@ -1,57 +1,77 @@
-# 👋 ¡Hola! Soy Raúl
-### 💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)
-Soy estudiante de Desarrollo de Aplicaciones Web, interesado en la tecnología, la programación y el desarrollo de software.
+<!-- CABECERA ANIMADA --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola%2C%20soy%20Raúl%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20DAW%20%7C%20Futuro%20desarrollador%20web&descAlignY=60&descSize=18" width="100%" alt="cabecera"/> <!-- TEXTO QUE SE ESCRIBE SOLO Y VA CAMBIANDO --> <a href="https://github.com/raulillo11-rodriguez"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Estudiando+Desarrollo+de+Aplicaciones+Web;%F0%9F%92%BB+Aprendiendo+algo+nuevo+cada+d%C3%ADa;%F0%9F%90%9B+Depurando+errores+(y+aprendiendo+de+ellos);%F0%9F%9A%80+Construyendo+mi+futuro+l%C3%ADnea+a+l%C3%ADnea;%E2%98%95+Convirtiendo+caf%C3%A9+en+c%C3%B3digo" alt="Typing SVG" /> </a>
 
-Actualmente estoy adquiriendo conocimientos en programación, desarrollo web y diseño de bases de datos, realizando proyectos y prácticas para poner en práctica lo aprendido.
----
-## 👨‍💻 Sobre mí
--  Estudiante del ciclo formativo de Desarrollo de Aplicaciones Web (DAW).
--  Aprendiendo Java y programación orientada a objetos.
--  Aprendiendo diseño y modelado de bases de datos con Oracle SQL Developer Data Modeler.
--  Interesado en el desarrollo web y la creación de aplicaciones.
--  Utilizando Git y GitHub para gestionar y compartir mis proyectos.
--  En constante aprendizaje y mejora de mis habilidades.
----
-### 💻 Lenguajes de programación
+<br/><br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Mostrar imagen Mostrar imagen Mostrar imagen
 
-### 🗄️ Bases de datos
+</div>
+🧑‍💻 Sobre mí
+js
+const raul = {
+  nombre: "Raúl",
+  estudios: "Ciclo Superior de DAW 🎓",
+  nivel: "Junior en construcción 🏗️",
+  ubicacion: "España 🇪🇸",
+  lemaDelDia: "Si compila, ¡se envía! (mentira, testea primero)",
+  buscando: ["Prácticas (FCT)", "Proyectos reales", "Gente con la que aprender"],
+  enProceso: ["HTML", "CSS", "JavaScript", "Git", "SQL"],
+  superpoder: "No rendirme ante un error rojo en consola 💪"
+};
+🎮 Haz clic para descubrir más (todo se despliega)
+<details> <summary>🌱 <b>¿Qué estoy aprendiendo ahora mismo?</b></summary> <br/>
+🔹 Maquetar webs con HTML5 y CSS3
+🔹 Dar vida a las páginas con JavaScript
+🔹 Guardar y organizar datos con bases de datos SQL
+🔹 Controlar versiones con Git y GitHub
+🔹 Programar en un lenguaje de servidor (PHP / Java, según el módulo)
 
-![Oracle Data Modeler](https://img.shields.io/badge/Oracle%20SQL%20Developer%20Data%20Modeler-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+💡 Aprender a programar es como aprender un idioma: al principio nada tiene sentido, y de repente un día lo piensas en ese idioma.
 
-### 🔧 Herramientas de desarrollo
+</details> <details> <summary>🎯 <b>Mis objetivos (las misiones del juego)</b></summary> <br/>
+Misión	Progreso
+Terminar el ciclo de DAW	Mostrar imagen
+Dominar JavaScript	Mostrar imagen
+Crear mi primer proyecto completo	Mostrar imagen
+Conseguir mis primeras prácticas	Mostrar imagen
 
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
-## 📂 Mis proyectos
+(Se irán actualizando conforme avance. ¡Vuelve en unas semanas!)
 
-En este perfil comparto mis trabajos y prácticas relacionados con mi formación:
+</details> <details> <summary>🤫 <b>Datos curiosos (spoiler: hay uno secreto)</b></summary> <br/>
+☕ Mi combustible: café, mucho café
+🌙 El código me sale mejor cuando todo está tranquilo
+🐛 He aprendido más de mis errores que de mis aciertos
+🔍 Mi mejor amigo ahora mismo: Google y la documentación de MDN
+🎁 Dato secreto: mi primer "Hola Mundo" fue mágico, y todavía me hace ilusión ✨
+</details> <details> <summary>🏆 <b>Logros desbloqueados</b></summary> <br/>
+✅ Crear mi cuenta de GitHub
+✅ Subir mi primer repositorio
+✅ Hacer mi primer commit
+✅ Hacer mi primer "Hola Mundo"
+🔒 Primer pull request (bloqueado... por ahora)
+🔒 Desplegar mi primera web (bloqueado... por ahora)
+🔒 Contribuir a un proyecto open source (bloqueado... por ahora)
+</details> <details> <summary>📬 <b>Contacta conmigo</b></summary> <br/>
 
-- Ejercicios de programación en Java.
-- Prácticas de desarrollo de software.
-- Ejercicios de diseño y modelado de bases de datos.
--  Futuros proyectos de desarrollo web.
-- Ejercicios de programación orientada a objetos.
----
+<a href="https://github.com/raulillo11-rodriguez"><img src="https://img.shields.io/badge/GitHub-raulillo11--rodriguez-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## 🎯 Mis objetivos
+💬 Si quieres colaborar, darme feedback o simplemente charlar de código, ¡abre un issue o escríbeme!
 
-- Consolidar mis conocimientos de programación.
-- Aprender tecnologías de desarrollo frontend y backend.
-- Mejorar mis conocimientos sobre bases de datos.
-- Desarrollar aplicaciones web completas.
-- Mejorar mis habilidades con Git y GitHub.
-- Construir un portfolio de proyectos.
+</details>
+🛠️ Mi stack (lo que uso y lo que estoy aprendiendo)
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,vscode&theme=dark" alt="skills" />
 
----
+<br/><br/>
 
-## 📫 Contacto
+Y mientras tanto, sumando tecnologías nuevas a la lista:
 
-Puedes consultar mis proyectos y seguir mi evolución como desarrollador a través de mis repositorios de GitHub.
+<img src="https://skillicons.dev/icons?i=php,java,nodejs,react,figma&theme=dark" alt="en proceso" /> </div>
+📊 Mis estadísticas
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=raulillo11-rodriguez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulillo11-rodriguez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="lenguajes" /> <br/> <img src="https://streak-stats.demolab.com?user=raulillo11-rodriguez&theme=tokyonight&hide_border=true&background=0d1117" alt="racha" /> </div>
+🧩 Mientras lees esto...
+<div align="center"> <!-- Frase aleatoria de programación que cambia en cada visita --> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="frase del día" /> </div>
+<div align="center">
+⭐ Si has llegado hasta aquí, ¡gracias por pasarte! ⭐
 
----
+<sub>Hecho con ☕, paciencia y muchos errores corregidos</sub>
 
-⭐ Gracias por visitar mi perfil.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="pie"/> </div>
